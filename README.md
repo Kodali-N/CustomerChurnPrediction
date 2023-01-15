@@ -4,7 +4,7 @@
 - Below are some examples to show what the profiling report consists of
 <img src="https://user-images.githubusercontent.com/86663030/212525106-6a051d20-12f6-42ea-898d-71d5dbe2d35f.jpeg" width="500" height="350">
 <img src="https://user-images.githubusercontent.com/86663030/212525014-19634d18-7853-4578-b360-309b20d2a63f.jpeg" width="450" height="250">
-<img src="https://user-images.githubusercontent.com/86663030/212525016-98a5221e-28cb-49f7-b665-0082c0bee498.jpeg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/86663030/212525016-98a5221e-28cb-49f7-b665-0082c0bee498.jpeg" width="450" height="250">
 
 - Converted churn to a binary numeric variables, and removed all null values (only 0.15% of the total data)
 - Plotted various predictors against churn, such as gender, tech support, internet services, and etc,.

@@ -9,9 +9,9 @@
 - Converted churn to a binary numeric variables, and removed all null values (only 0.15% of the total data)
 - Plotted various predictors against churn, such as gender, tech support, internet services, and etc,.
 <img src="https://user-images.githubusercontent.com/86663030/212525305-be7c6d9f-a3b0-4510-9aa9-e4fc29599d03.jpeg" width="450" height="300"> Percent of people who churned = 26.6%
-<img src="https://user-images.githubusercontent.com/86663030/212525316-516ff5d5-8ee2-49db-a7b2-83cc4ee4ea0a.jpeg" width="550" height="300"> Customers with no tech support are more likely to churn
-<img src="https://user-images.githubusercontent.com/86663030/212525323-dbb9b6dc-98c1-4684-8f5f-637ba0f69565.jpeg" width="550" height="300"> Customer on monthly contracts churn more
-<img src="https://user-images.githubusercontent.com/86663030/212525329-1697f42e-2396-4064-b461-cbbb81d009cd.jpeg" width="550" height="300"> As the customer's tenure increases, he/she is less likely to churn
+- <img src="https://user-images.githubusercontent.com/86663030/212525316-516ff5d5-8ee2-49db-a7b2-83cc4ee4ea0a.jpeg" width="550" height="300"> Customers with no tech support are more likely to churn
+- <img src="https://user-images.githubusercontent.com/86663030/212525323-dbb9b6dc-98c1-4684-8f5f-637ba0f69565.jpeg" width="550" height="300"> Customer on monthly contracts churn more
+- <img src="https://user-images.githubusercontent.com/86663030/212525329-1697f42e-2396-4064-b461-cbbb81d009cd.jpeg" width="550" height="300"> As the customer's tenure increases, he/she is less likely to churn
 - Used One Hot Encoding on categorical variables, so that the information can be fed into ML algorithms. 
 - In order to get the right results, we are required to bring, 'tenure', 'Monthly Charges' and 'Total Charges' onto the same scale. I used StandardScaler from sklearn.preprocessing for this task.
 <img src="https://user-images.githubusercontent.com/86663030/212525335-13758ff7-3fc5-46cd-aabf-69c49cdb7cbf.jpeg" width="550" height="300">

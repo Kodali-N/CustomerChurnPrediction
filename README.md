@@ -20,5 +20,9 @@
 <img src="https://user-images.githubusercontent.com/86663030/212525340-25fa485b-e940-4cea-bce1-9602ddca36e3.jpeg" width="700" height="300">
 - The following models: Support Vector Machine, K-Nearest Neighbour, Decision Tree and Random Forest models are also trained the same way.
 - To find out the model that works the best for us, I calculated the accuracy score. From the data, its observed that Logistic Regression Model has the highest accuracy score.
+<img src="https://user-images.githubusercontent.com/86663030/212526072-6344f913-d223-4da5-aff9-3fb255d4a097.jpeg" width="300" height="200">
 - I further went onto creating a confusion matrix for the model evaluation by passing y_test and predicted values. We have (1395+317) 1712 correct predictions and (233+165) 398 false predictions.
+<img src="https://user-images.githubusercontent.com/86663030/212525343-bfa1fe70-ff8b-4d44-bde9-f9a3d61a9ac0.jpeg" width="550" height="200">
+- Result:
+<img src="https://user-images.githubusercontent.com/86663030/212525344-5eb5f699-de55-45b7-8412-a845402ee79c.jpeg" width="300" height="200">
 
